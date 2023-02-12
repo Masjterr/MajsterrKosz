@@ -1,0 +1,7 @@
+name: Majsterr-KoszPlugin
+Main: me.majsterr.kosz.Main
+version: 1.0
+author: majsterr
+
+commands:
+  kosz:
